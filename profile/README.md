@@ -21,7 +21,7 @@ ArboRithm builds tools to work with AI: steer your projects, give agents a memor
   <tr>
     <td width="96" align="center"><img src="assets/daimon.svg" alt="Daimon" width="72"></td>
     <td>
-      <strong><a href="https://github.com/ArboRithm/Daimon">Daimon</a></strong> — Give any AI eyes, hands and a face on your desktop, safely.<br>
+      <strong><a href="https://github.com/ArboRithm/Daimon">Daimon</a></strong> — See, act, show: any AI on your desktop, safely.<br>
       One local MCP daemon for macOS and Windows: see the screen, act on it, show what is being done. The hands stay under an L0–L4 ceiling that Daimon enforces itself, never the AI.<br>
       <sub><a href="https://arborithm.fr/projects/daimon/">Learn more</a> · <a href="https://github.com/ArboRithm/Daimon">Repository</a></sub>
     </td>
@@ -44,7 +44,7 @@ ArboRithm builds tools to work with AI: steer your projects, give agents a memor
 ArboRithm conçoit des outils pour travailler avec l'IA : piloter vos projets, donner aux agents une mémoire qui dure, et les laisser voir et agir sur votre bureau sous un plafond que vous maîtrisez. Local d'abord, protocoles ouverts (MCP), sans verrou.
 
 - **[Effortless](https://github.com/ArboRithm/Effortless)** — Pilotez vos projets avec l'IA, sans effort. · [En savoir plus](https://arborithm.fr/projets/effortless/)
-- **[Daimon](https://github.com/ArboRithm/Daimon)** — Des yeux, des mains et un visage à toute IA, en toute sécurité. · [En savoir plus](https://arborithm.fr/projets/daimon/)
+- **[Daimon](https://github.com/ArboRithm/Daimon)** — Voir, agir, montrer : toute IA sur votre bureau, en toute sécurité. · [En savoir plus](https://arborithm.fr/projets/daimon/)
 - **Kesshō** — La mémoire qui reste d'une session à l'autre. *Bientôt disponible.* · [En savoir plus](https://arborithm.fr/projets/kessho/)
 
 **[arborithm.fr](https://arborithm.fr/accueil/)**
