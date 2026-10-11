@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="Kesshō">
+  <title>Kesshō</title>
+  <defs>
+    <!-- Contours des facettes : retirés par le masque pour laisser des joints transparents (épaisseur d'un trait). -->
+    <g id="kessho-joints" fill="none" stroke="#000" stroke-width="0.5" stroke-linejoin="round">
+      <polygon points="1.000,12.000 3.750,7.237 9.250,7.237 6.500,12.000"/>
+      <polygon points="6.500,12.000 9.250,7.237 14.750,7.237 12.000,12.000"/>
+      <polygon points="3.750,7.237 6.500,2.474 12.000,2.474 9.250,7.237"/>
+      <polygon points="9.250,7.237 12.000,2.474 17.500,2.474 14.750,7.237"/>
+      <polygon points="12.000,12.000 14.750,7.237 17.500,12.000 14.750,16.763"/>
+      <polygon points="14.750,16.763 17.500,12.000 20.250,16.763 17.500,21.526"/>
+      <polygon points="14.750,7.237 17.500,2.474 20.250,7.237 17.500,12.000"/>
+      <polygon points="17.500,12.000 20.250,7.237 23.000,12.000 20.250,16.763"/>
+      <polygon points="1.000,12.000 3.750,16.763 9.250,16.763 6.500,12.000"/>
+      <polygon points="6.500,12.000 9.250,16.763 14.750,16.763 12.000,12.000"/>
+      <polygon points="3.750,16.763 6.500,21.526 12.000,21.526 9.250,16.763"/>
+      <polygon points="9.250,16.763 12.000,21.526 17.500,21.526 14.750,16.763"/>
+    </g>
+    <mask id="kessho-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+      <rect x="0" y="0" width="24" height="24" fill="#fff"/>
+      <use href="#kessho-joints"/>
+    </mask>
+  </defs>
+  <g transform="translate(165.6 165.6) scale(28.86)">
+    <g mask="url(#kessho-mask)">
+      <polygon points="1.000,12.000 3.750,7.237 9.250,7.237 6.500,12.000" fill="#8f6e33"/>
+      <polygon points="6.500,12.000 9.250,7.237 14.750,7.237 12.000,12.000" fill="#d9a441"/>
+      <polygon points="3.750,7.237 6.500,2.474 12.000,2.474 9.250,7.237" fill="#584629"/>
+      <polygon points="9.250,7.237 12.000,2.474 17.500,2.474 14.750,7.237" fill="#8f6e33"/>
+      <polygon points="12.000,12.000 14.750,7.237 17.500,12.000 14.750,16.763" fill="#5fd0e3"/>
+      <polygon points="14.750,16.763 17.500,12.000 20.250,16.763 17.500,21.526" fill="#438997"/>
+      <polygon points="14.750,7.237 17.500,2.474 20.250,7.237 17.500,12.000" fill="#438997"/>
+      <polygon points="17.500,12.000 20.250,7.237 23.000,12.000 20.250,16.763" fill="#2f5560"/>
+      <polygon points="1.000,12.000 3.750,16.763 9.250,16.763 6.500,12.000" fill="#398b6b"/>
+      <polygon points="6.500,12.000 9.250,16.763 14.750,16.763 12.000,12.000" fill="#4fd39c"/>
+      <polygon points="3.750,16.763 6.500,21.526 12.000,21.526 9.250,16.763" fill="#295648"/>
+      <polygon points="9.250,16.763 12.000,21.526 17.500,21.526 14.750,16.763" fill="#398b6b"/>
+    </g>
+  </g>
+</svg>
